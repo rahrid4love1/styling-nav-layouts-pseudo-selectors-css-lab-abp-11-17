@@ -84,7 +84,7 @@ div.questions p{
   margin-top: 30px;
 }
 
-div.questions .btn a{
+.btn a{
   border-radius: 5px;
   color: #FFF;
   background-color: #007bff;
@@ -93,7 +93,7 @@ div.questions .btn a{
   padding: 18px;
   font-size: 20px;
 }
-.btn a:hover{
+div.questions .btn a:hover{
   background-color: #0069d9;
   border-color: #0069d9;
 }
